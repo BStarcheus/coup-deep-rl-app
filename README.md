@@ -3,6 +3,10 @@
 The Coup RL desktop app allows humans to play against an RL agent.
 You can choose to train the agent through your games, or play with an agent trained through some other method.
 
+## Requirements
+- [gym-coup](https://github.com/BStarcheus/gym-coup)
+- PyQt6 (run `pip install -r requirements.txt`)
+
 ## Usage
 ```bash
 $ python app/main.py
